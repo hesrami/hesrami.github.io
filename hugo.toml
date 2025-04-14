@@ -1,4 +1,4 @@
-baseURL = 'https://hesrami.github.io'
+baseURL = 'https://hesrami.github.io/'
 languageCode = 'en-gb'
 defaultContentLanguage = "en-gb"
 title = "rami's blog"
